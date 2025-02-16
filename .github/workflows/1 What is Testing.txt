@@ -1,0 +1,11 @@
+1 What is Testing?
+
+* Software testing is a set of acivities to discover defects and evaluate the quality of softwar artifats. These artifacts, when being tested, are known as test objects.
+
+* A common miconception about testing is that it only consists of executing tests.
+
+* ANotther commonn misconceptiion bout testing is that testting focuses entirely on verifying the test object.
+
+* Testing may be dynamic or static.
+
+* Testing is not only a technicl activity. It also needs to bbe properly planned, managed, estimated, monitored and controlled.

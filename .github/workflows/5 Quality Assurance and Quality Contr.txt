@@ -1,0 +1,10 @@
+Quality Assurance and Quality Control
+
+* While people often use the terms "testing" and "Quality Assurance" interchangeably, testing and QA are not the same. Testing is a form of quality control.
+
+* QC i a product-oriented, preventive approach that focuses on those activities supporting the achievement of appropriate levels of quality. Testing is a major form of quality control, while others include formal methods, simulation and prototyping.
+
+* QA is a process-oriented, preventive approach that focuses on the implementation of processes. It works on the basis that if good process is followed correctly, then it will generate a good product. QA applies to both the development and testting processes, and is the responsibility of everyone on a project.
+
+* Test reaults are used by QA and Qc. In QC they are used to fix defects, while in QA they provide feedback on how well development and test processes are performing.
+ 

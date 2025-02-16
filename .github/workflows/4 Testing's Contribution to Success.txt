@@ -1,0 +1,11 @@
+Testing's Contribution to Success:
+
+* Testing provides a cost- effectivve means of detecting defects. These defects can then be removed, so testing indirectly contibutes to higher quality test objects.
+
+* Testing provides  means of directly evaluating the quality of a test object at various stages in SDLC.
+
+* These measures are used as part of a larger project management activity, contributing to decisions to move to the next stage of the SDLC, such as the release decision.
+
+* Testing provides users with indirect representation on the devvelopment project. Testers ensure that their understanding of users' needs are considered throughout the development lifecycle.
+
+* Testing may also be required to meet contractual or legal requirements, or to comply  with regulatory standards.

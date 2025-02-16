@@ -1,0 +1,14 @@
+Testing and Debugging.
+
+	* Testing and debugging are seperate activities.
+
+* Testing can trigger failures that are caused by defects in the software or can directly find defects in the test object.
+
+* When dynamic testing triggers a failure, debugging is concerned with finding causes of this failure, analyzing these causes, and eliminating them.
+
+* the typical debugging process in the case involves:
+  -> Reproduction of a failure
+  -> Diagnosis (finding the root cause)
+  -> Fixing the cause
+
+* WHen satic testing identifies a defect, debugging is concerned with removing it. There is no need for reproduction or diagnosis, since static testing directly finds defects, and cannot cause failures.
