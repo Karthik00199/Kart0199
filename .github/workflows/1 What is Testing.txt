@@ -8,4 +8,6 @@
 
 * Testing may be dynamic or static.
 
-* Testing is not only a technicl activity. It also needs to bbe properly planned, managed, estimated, monitored and controlled.
+Karthik 
+
+RReddy
