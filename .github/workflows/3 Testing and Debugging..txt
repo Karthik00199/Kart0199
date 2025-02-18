@@ -12,3 +12,7 @@ Testing and Debugging.
   -> Fixing the cause
 
 * WHen satic testing identifies a defect, debugging is concerned with removing it. There is no need for reproduction or diagnosis, since static testing directly finds defects, and cannot cause failures.
+
+
+
+Oh My god, this is real, i have made changes in the git
