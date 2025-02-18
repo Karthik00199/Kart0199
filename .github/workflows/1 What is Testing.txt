@@ -8,6 +8,10 @@
 
 * Testing may be dynamic or static.
 
+<<<<<<< HEAD
 Karthik 
 
 RReddy
+=======
+Karthik
+>>>>>>> f4323e256ced531a8dc6a0f98439e5f8d372e052
